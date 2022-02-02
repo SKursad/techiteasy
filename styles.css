@@ -1,0 +1,51 @@
+.sold-color {
+    color: green;
+}
+
+.purchased-color {
+    color: blue;
+}
+
+.sell-tv {
+    color: darkred;
+}
+
+.brands {
+    color: darkcyan;
+}
+
+.title {
+    color: black;
+}
+
+#demo1 {
+    color: black;
+}
+
+#demo2 {
+    color: black;
+}
+
+#demo3 {
+    color: black;
+}
+
+
+#demo4 {
+    background-color: black;
+    color: turquoise;
+    display: grid;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+    outline: azure;
+}
+
+.megaList {
+    display: inline-table;
+    grid-area: span;
+    font-size: 20px;
+    padding: 15px;
+}
+
